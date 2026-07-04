@@ -34,6 +34,11 @@
 # mane = "Kiran Kumar V"
 # print(len(mane))
 
+# 7 .title() : Converts the first letter of each word into uppercase .
+
+# name="kiran kumar v"
+# print(name.title())
+
 # Combining Methods
 
 # name3 = "         Kiran loves gaming     "
