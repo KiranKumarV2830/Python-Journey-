@@ -2,9 +2,11 @@
 
 Welcome to my **Python Journey**! This repository documents my daily progress as I learn Python from the ground up with the goal of becoming an **AI Engineer**.
 
-## 🎯 Goal
+---
 
-My goal is to build a strong foundation in Python and eventually learn:
+# 🎯 Goal
+
+My goal is to build a strong foundation in Python and eventually master:
 
 * Python Programming
 * Data Structures & Algorithms
@@ -16,8 +18,6 @@ My goal is to build a strong foundation in Python and eventually learn:
 * Large Language Models (LLMs)
 * AI Projects
 
-This repository will contain my daily practice, notes, challenges, mini projects, and progress throughout my learning journey.
-
 ---
 
 # 📅 Progress
@@ -28,6 +28,7 @@ This repository will contain my daily practice, notes, challenges, mini projects
 | ✅ Day 2 | Variables & Data Types               | Completed |
 | ✅ Day 3 | String Methods                       | Completed |
 | ✅ Day 4 | User Input, Type Casting & f-Strings | Completed |
+| ✅ Day 5 | Arithmetic Operators & Math Module   | Completed |
 
 ---
 
@@ -36,30 +37,14 @@ This repository will contain my daily practice, notes, challenges, mini projects
 ```text
 Python-Journey/
 │
-├── Day 01 - PYTHON INTRODUCTION/
-│   ├── hello.py
-│   ├── challenge.py
-│   └── README.md
-│
-├── Day 02 - VARIABLES/
-│   ├── day2.py
-│   ├── my_profile.py
-│   └── README.md
-│
-├── Day 03 - STRING METHODS/
-│   ├── day3.py
-│   ├── string_practice.py
-│   └── README.md
-│
-├── Day 04 - STRING FORMATTING/
-│   ├── day04.py
-│   ├── student_card.py
-│   └── README.md
+├── Day-01/
+├── Day-02/
+├── Day-03/
+├── Day-04/
+├── Day-05/
 │
 ├── Practice-Sheets/
-│   ├── Practice-Sheet-01/
-│   │   └── sheet1.py
-│   └── README.md
+│   └── Practice-Sheet-01/
 │
 └── README.md
 ```
@@ -73,28 +58,22 @@ Python-Journey/
 * Python Installation
 * Running Python Programs
 * `print()` Function
-* Writing First Program
 
 ### ✅ Day 2
 
 * Variables
 * Data Types
-
-  * String
-  * Integer
-  * Float
-  * Boolean
-* `type()` Function
+* `type()`
 
 ### ✅ Day 3
 
+* String Methods
 * `upper()`
 * `lower()`
 * `strip()`
 * `replace()`
 * `split()`
 * `len()`
-* Method Chaining
 
 ### ✅ Day 4
 
@@ -105,38 +84,38 @@ Python-Journey/
 * `str()`
 * `bool()`
 * f-Strings
-* Interactive Programs
+
+### ✅ Day 5
+
+* Arithmetic Operators
+* Assignment Operators
+* Operator Precedence
+* `math` Module
+* Calculator Program
+* Circle Calculator
+* Mad Libs Game
 
 ---
 
-# 💻 Practice
+# 💻 Projects Completed
 
-This repository includes:
-
-* Daily coding exercises
-* Mini projects
-* Challenge problems
-* Practice sheets
-* Code experiments
-* GitHub commits for every learning day
-
----
-
-# 🎯 Learning Rules
-
-* ✔ Code every day.
-* ✔ Push progress to GitHub.
-* ✔ Write handwritten notes.
-* ✔ Solve challenges before checking solutions.
-* ✔ Build projects while learning.
+* Hello World
+* Student Card
+* Shopping Cart
+* Rectangle Area Calculator
+* BMI Calculator
+* Circle Calculator
+* Simple Calculator
+* Mad Libs Game
+* Personal Information System
 
 ---
 
-# 📈 Current Progress
+# 📄 Practice Sheets
 
-**Python Progress:** 4 Days Completed ✅
-
-**Coding Streak:** 🔥 4 Days
+| Practice Sheet     | Topics            | Status    |
+| ------------------ | ----------------- | --------- |
+| ✅ Practice Sheet 1 | Days 1–4 Revision | Completed |
 
 ---
 
@@ -149,12 +128,32 @@ This repository includes:
 
 ---
 
-# 🌟 Quote
+# 📈 Current Progress
 
-> "Consistency beats intensity."
-
-Every small step brings me closer to my goal of becoming an AI Engineer.
+* **Days Completed:** 5/252
+* **Python Fundamentals:** In Progress
+* **Practice Sheets Completed:** 1
+* **Mini Projects Completed:** 5+
+* **Coding Streak:** 🔥 5 Days
 
 ---
 
-⭐ If you're visiting this repository, thank you for checking out my learning journey!
+# 🎯 Learning Philosophy
+
+* ✔ Learn the concept
+* ✔ Practice by coding
+* ✔ Solve challenges
+* ✔ Build mini projects
+* ✔ Push code to GitHub
+* ✔ Write handwritten notes
+* ✔ Stay consistent
+
+---
+
+# 🌟 Quote
+
+> "Consistency beats intensity. Small improvements every day lead to extraordinary results."
+
+---
+
+⭐ Thank you for visiting my repository and following my journey toward becoming an AI Engineer!
