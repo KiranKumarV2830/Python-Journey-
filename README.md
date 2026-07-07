@@ -16,19 +16,19 @@ My goal is to build a strong foundation in Python and eventually master:
 * Deep Learning
 * Generative AI
 * Large Language Models (LLMs)
-* AI Projects
 
 ---
 
 # 📅 Progress
 
-| Day     | Topic                                | Status    |
-| ------- | ------------------------------------ | --------- |
-| ✅ Day 1 | Python Basics & `print()`            | Completed |
-| ✅ Day 2 | Variables & Data Types               | Completed |
-| ✅ Day 3 | String Methods                       | Completed |
-| ✅ Day 4 | User Input, Type Casting & f-Strings | Completed |
-| ✅ Day 5 | Arithmetic Operators & Math Module   | Completed |
+| Day     | Topic                                                                         | Status    |
+| ------- | ----------------------------------------------------------------------------- | --------- |
+| ✅ Day 1 | Python Basics & `print()`                                                     | Completed |
+| ✅ Day 2 | Variables & Data Types                                                        | Completed |
+| ✅ Day 3 | String Methods                                                                | Completed |
+| ✅ Day 4 | User Input, Type Casting & f-Strings                                          | Completed |
+| ✅ Day 5 | Arithmetic Operators & Math Module                                            | Completed |
+| ✅ Day 6 | Comparison Operators, Boolean Values, `if`, `elif`, `else`, Logical Operators | Completed |
 
 ---
 
@@ -42,6 +42,7 @@ Python-Journey/
 ├── Day-03/
 ├── Day-04/
 ├── Day-05/
+├── Day-06/
 │
 ├── Practice-Sheets/
 │   └── Practice-Sheet-01/
@@ -56,7 +57,6 @@ Python-Journey/
 ### ✅ Day 1
 
 * Python Installation
-* Running Python Programs
 * `print()` Function
 
 ### ✅ Day 2
@@ -91,9 +91,22 @@ Python-Journey/
 * Assignment Operators
 * Operator Precedence
 * `math` Module
-* Calculator Program
+* Calculator
 * Circle Calculator
 * Mad Libs Game
+
+### ✅ Day 6
+
+* Comparison Operators
+* Boolean Values
+* `if`
+* `elif`
+* `else`
+* Logical Operators (`and`, `or`, `not`)
+* Login System
+* Grade Checker
+* Even/Odd Checker
+* Largest Number Program
 
 ---
 
@@ -103,19 +116,27 @@ Python-Journey/
 * Student Card
 * Shopping Cart
 * Rectangle Area Calculator
-* BMI Calculator
 * Circle Calculator
+* BMI Calculator
 * Simple Calculator
 * Mad Libs Game
-* Personal Information System
+* Personal Information Card
+* Age Checker
+* Number Checker
+* Grade Checker
+* Login System
+* Even/Odd Checker
+* Largest Number Finder
 
 ---
 
-# 📄 Practice Sheets
+# 📄 Practice
 
-| Practice Sheet     | Topics            | Status    |
-| ------------------ | ----------------- | --------- |
-| ✅ Practice Sheet 1 | Days 1–4 Revision | Completed |
+* Daily Practice Programs
+* Output Prediction Questions
+* Debugging Challenges
+* Interview Questions
+* Think Like a Programmer Exercises
 
 ---
 
@@ -130,20 +151,21 @@ Python-Journey/
 
 # 📈 Current Progress
 
-* **Days Completed:** 5/252
+* **Days Completed:** 6/252
 * **Python Fundamentals:** In Progress
-* **Practice Sheets Completed:** 1
-* **Mini Projects Completed:** 5+
-* **Coding Streak:** 🔥 5 Days
+* **Mini Programs Built:** 15+
+* **GitHub Commits:** Daily
+* **Coding Streak:** 🔥 6 Days
 
 ---
 
 # 🎯 Learning Philosophy
 
 * ✔ Learn the concept
+* ✔ Understand why it works
 * ✔ Practice by coding
-* ✔ Solve challenges
-* ✔ Build mini projects
+* ✔ Solve problems
+* ✔ Build projects
 * ✔ Push code to GitHub
 * ✔ Write handwritten notes
 * ✔ Stay consistent
@@ -152,7 +174,7 @@ Python-Journey/
 
 # 🌟 Quote
 
-> "Consistency beats intensity. Small improvements every day lead to extraordinary results."
+> "Success is the sum of small efforts, repeated day in and day out."
 
 ---
 
