@@ -1,15 +1,16 @@
 # 🐍 Python Journey 🚀
 
-Welcome to my **Python Journey**! This repository documents my daily progress as I learn Python from the ground up with the goal of becoming an **AI Engineer**.
+Welcome to my Python learning journey! This repository documents my daily progress as I learn Python from scratch with the goal of becoming an **AI Engineer**.
 
 ---
 
 # 🎯 Goal
 
-My goal is to build a strong foundation in Python and eventually master:
+My long-term goal is to master:
 
 * Python Programming
 * Data Structures & Algorithms
+* Object-Oriented Programming
 * NumPy
 * Pandas
 * Machine Learning
@@ -19,16 +20,17 @@ My goal is to build a strong foundation in Python and eventually master:
 
 ---
 
-# 📅 Progress
+# 📅 Progress Tracker
 
-| Day     | Topic                                                                         | Status    |
-| ------- | ----------------------------------------------------------------------------- | --------- |
-| ✅ Day 1 | Python Basics & `print()`                                                     | Completed |
-| ✅ Day 2 | Variables & Data Types                                                        | Completed |
-| ✅ Day 3 | String Methods                                                                | Completed |
-| ✅ Day 4 | User Input, Type Casting & f-Strings                                          | Completed |
-| ✅ Day 5 | Arithmetic Operators & Math Module                                            | Completed |
-| ✅ Day 6 | Comparison Operators, Boolean Values, `if`, `elif`, `else`, Logical Operators | Completed |
+| Day     | Topics                                                     | Status    |
+| ------- | ---------------------------------------------------------- | --------- |
+| ✅ Day 1 | Python Basics & `print()`                                  | Completed |
+| ✅ Day 2 | Variables & Data Types                                     | Completed |
+| ✅ Day 3 | String Methods                                             | Completed |
+| ✅ Day 4 | User Input, Type Casting & f-Strings                       | Completed |
+| ✅ Day 5 | Arithmetic Operators & Math Module                         | Completed |
+| ✅ Day 6 | Comparison Operators, Boolean Values, `if`, `elif`, `else` | Completed |
+| ✅ Day 7 | Nested `if`, Logical Operators & Decision-Making Projects  | Completed |
 
 ---
 
@@ -43,31 +45,30 @@ Python-Journey/
 ├── Day-04/
 ├── Day-05/
 ├── Day-06/
+├── Day-07/
 │
 ├── Practice-Sheets/
-│   └── Practice-Sheet-01/
+│
+├── Mini-Projects/
 │
 └── README.md
 ```
 
 ---
 
-# 📖 What I've Learned
+# 📖 Topics Learned
 
-### ✅ Day 1
+### ✅ Python Fundamentals
 
-* Python Installation
-* `print()` Function
-
-### ✅ Day 2
-
+* Python Basics
 * Variables
 * Data Types
-* `type()`
+* User Input
+* Type Casting
+* f-Strings
 
-### ✅ Day 3
+### ✅ String Manipulation
 
-* String Methods
 * `upper()`
 * `lower()`
 * `strip()`
@@ -75,68 +76,64 @@ Python-Journey/
 * `split()`
 * `len()`
 
-### ✅ Day 4
-
-* `input()`
-* Type Casting
-* `int()`
-* `float()`
-* `str()`
-* `bool()`
-* f-Strings
-
-### ✅ Day 5
+### ✅ Operators
 
 * Arithmetic Operators
 * Assignment Operators
-* Operator Precedence
-* `math` Module
-* Calculator
-* Circle Calculator
-* Mad Libs Game
-
-### ✅ Day 6
-
 * Comparison Operators
+* Logical Operators
+
+### ✅ Decision Making
+
 * Boolean Values
 * `if`
 * `elif`
 * `else`
-* Logical Operators (`and`, `or`, `not`)
-* Login System
-* Grade Checker
-* Even/Odd Checker
-* Largest Number Program
+* Nested `if`
+
+### ✅ Python Modules
+
+* `math` Module
 
 ---
 
 # 💻 Projects Completed
 
-* Hello World
-* Student Card
+* Hello World Banner
+* Student Profile Card
 * Shopping Cart
-* Rectangle Area Calculator
-* Circle Calculator
 * BMI Calculator
-* Simple Calculator
+* Circle Calculator
+* Rectangle Area Calculator
 * Mad Libs Game
-* Personal Information Card
+* Simple Calculator
 * Age Checker
 * Number Checker
 * Grade Checker
 * Login System
 * Even/Odd Checker
 * Largest Number Finder
+* Temperature Converter
+* Weight Converter
+* Discount Calculator
+* ATM PIN Verification
+* Driving License Checker
 
 ---
 
-# 📄 Practice
+# 🎯 Practice & Learning
 
-* Daily Practice Programs
-* Output Prediction Questions
-* Debugging Challenges
-* Interview Questions
-* Think Like a Programmer Exercises
+Every day includes:
+
+* 📚 Learning new concepts
+* 💻 Coding examples
+* 🧩 Practice problems
+* 🧠 Output prediction
+* 🐞 Debugging challenges
+* 🎤 Interview questions
+* 🚀 Mini projects
+* 📝 Handwritten notes
+* 📂 GitHub commits
 
 ---
 
@@ -151,31 +148,43 @@ Python-Journey/
 
 # 📈 Current Progress
 
-* **Days Completed:** 6/252
-* **Python Fundamentals:** In Progress
-* **Mini Programs Built:** 15+
-* **GitHub Commits:** Daily
-* **Coding Streak:** 🔥 6 Days
+* ✅ Days Completed: **7 / 252**
+* 🔥 Coding Streak: **7 Days**
+* 💻 Programs Built: **18+**
+* 📚 Python Fundamentals: In Progress
+* 🚀 GitHub Updated Daily
 
 ---
 
 # 🎯 Learning Philosophy
 
-* ✔ Learn the concept
-* ✔ Understand why it works
-* ✔ Practice by coding
-* ✔ Solve problems
-* ✔ Build projects
-* ✔ Push code to GitHub
-* ✔ Write handwritten notes
-* ✔ Stay consistent
+* Learn the concept.
+* Understand why it works.
+* Practice consistently.
+* Build projects.
+* Solve problems independently.
+* Learn from mistakes.
+* Stay curious.
 
 ---
 
-# 🌟 Quote
+# 🌟 Future Roadmap
 
-> "Success is the sum of small efforts, repeated day in and day out."
+* Functions
+* Loops
+* Collections
+* File Handling
+* Exception Handling
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Machine Learning
+* Deep Learning
+* AI Projects
 
 ---
 
-⭐ Thank you for visiting my repository and following my journey toward becoming an AI Engineer!
+## 🌟 Quote
+
+> "Small improvements every day lead to remarkable results."
+
+Thank you for visiting my repository and following my journey toward becoming an AI Engineer! 🚀
