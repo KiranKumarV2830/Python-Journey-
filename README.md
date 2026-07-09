@@ -1,36 +1,116 @@
-# 🐍 Python Journey 🚀
+# 🐍 Python Journey
 
-Welcome to my Python learning journey! This repository documents my daily progress as I learn Python from scratch with the goal of becoming an **AI Engineer**.
+Welcome to my **Python Journey** repository! 🚀
 
----
+This repository documents my daily progress as I learn Python from the basics to advanced concepts. Every day, I study new topics, solve practice problems, build mini projects, and upload my work to GitHub to track my growth.
 
-# 🎯 Goal
-
-My long-term goal is to master:
-
-* Python Programming
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* NumPy
-* Pandas
-* Machine Learning
-* Deep Learning
-* Generative AI
-* Large Language Models (LLMs)
+My goal is to become a skilled **AI Engineer** by building a strong programming foundation, improving my problem-solving skills, and maintaining consistency throughout my learning journey.
 
 ---
 
-# 📅 Progress Tracker
+# 🎯 Goals
 
-| Day     | Topics                                                     | Status    |
-| ------- | ---------------------------------------------------------- | --------- |
-| ✅ Day 1 | Python Basics & `print()`                                  | Completed |
-| ✅ Day 2 | Variables & Data Types                                     | Completed |
-| ✅ Day 3 | String Methods                                             | Completed |
-| ✅ Day 4 | User Input, Type Casting & f-Strings                       | Completed |
-| ✅ Day 5 | Arithmetic Operators & Math Module                         | Completed |
-| ✅ Day 6 | Comparison Operators, Boolean Values, `if`, `elif`, `else` | Completed |
-| ✅ Day 7 | Nested `if`, Logical Operators & Decision-Making Projects  | Completed |
+* Learn Python from Beginner to Advanced
+* Build a strong programming foundation
+* Improve logical thinking and problem-solving skills
+* Build mini projects after learning new concepts
+* Practice coding every day
+* Maintain a professional GitHub portfolio
+* Prepare for AI, Machine Learning, and Software Development
+
+---
+
+# 📚 Daily Progress
+
+## 📘 Day 01
+
+* Introduction to Python
+* Installing Python & VS Code
+* Variables
+* Data Types
+* Printing Output
+
+---
+
+## 📘 Day 02
+
+* User Input
+* Type Casting
+* f-Strings
+* Basic String Operations
+
+---
+
+## 📘 Day 03
+
+* String Methods
+* String Indexing
+* String Slicing
+* String Practice Problems
+
+---
+
+## 📘 Day 04
+
+* Advanced String Practice
+* String Functions
+* Problem Solving
+
+---
+
+## 📘 Day 05
+
+* Arithmetic Operators
+* Assignment Operators
+* Floor Division
+* Modulus
+* Math Module
+* Mad Libs Game
+
+---
+
+## 📘 Day 06
+
+* Comparison Operators
+* Boolean Data Type
+* If Statements
+* Else Statements
+* Elif Statements
+
+---
+
+## 📘 Day 07
+
+* Logical Operators (`and`, `or`, `not`)
+* Nested If Statements
+* Decision Making
+* Scholarship Eligibility Checker
+* Login System
+
+---
+
+## 📘 Day 08
+
+* Match-Case Statement
+* `case` and `case _`
+* Difference Between `if-elif-else` and `match-case`
+* IPO (Input → Process → Output) Problem Solving
+* Restaurant Ordering System
+
+---
+
+# 🛠 Mini Projects
+
+* 🎮 Mad Libs Game
+* 🌡 Temperature Converter
+* ⚖ Weight Converter
+* 💰 Discount Calculator
+* 🏧 ATM PIN Verification
+* 🎓 Scholarship Eligibility Checker
+* 🔐 Login System
+* 🍔 Restaurant Ordering System
+
+> More projects will be added as I continue learning Python.
 
 ---
 
@@ -46,145 +126,129 @@ Python-Journey/
 ├── Day-05/
 ├── Day-06/
 ├── Day-07/
-│
-├── Practice-Sheets/
+├── Day-08/
 │
 ├── Mini-Projects/
+│   ├── Mad-Libs-Game/
+│   ├── Temperature-Converter/
+│   ├── Weight-Converter/
+│   ├── Discount-Calculator/
+│   ├── ATM-PIN-System/
+│   ├── Scholarship-Eligibility-Checker/
+│   ├── Login-System/
+│   └── Restaurant-Ordering-System/
+│
+├── Practice-Sheets/
+├── Resources/
 │
 └── README.md
 ```
 
 ---
 
-# 📖 Topics Learned
+# 🧠 My Learning Workflow
 
-### ✅ Python Fundamentals
+For every topic, I follow this process:
 
-* Python Basics
+1. 📖 Learn the concept
+2. 📝 Write handwritten notes
+3. 📚 Understand definitions
+4. 💡 Study real-life examples
+5. 🧠 Plan using IPO (Input → Process → Output)
+6. ⚠️ Think about edge cases
+7. 💻 Write the code
+8. 🐞 Debug and improve the program
+9. 🚀 Build a mini project
+10. 📂 Push everything to GitHub
+
+---
+
+# 💻 Skills Learned So Far
+
+### Python Fundamentals
+
 * Variables
 * Data Types
 * User Input
 * Type Casting
 * f-Strings
 
-### ✅ String Manipulation
+### String Handling
 
-* `upper()`
-* `lower()`
-* `strip()`
-* `replace()`
-* `split()`
-* `len()`
+* String Methods
+* String Indexing
+* String Slicing
 
-### ✅ Operators
+### Operators
 
 * Arithmetic Operators
 * Assignment Operators
 * Comparison Operators
 * Logical Operators
 
-### ✅ Decision Making
+### Decision Making
 
-* Boolean Values
 * `if`
 * `elif`
 * `else`
 * Nested `if`
+* `match-case`
 
-### ✅ Python Modules
+### Problem Solving
 
-* `math` Module
-
----
-
-# 💻 Projects Completed
-
-* Hello World Banner
-* Student Profile Card
-* Shopping Cart
-* BMI Calculator
-* Circle Calculator
-* Rectangle Area Calculator
-* Mad Libs Game
-* Simple Calculator
-* Age Checker
-* Number Checker
-* Grade Checker
-* Login System
-* Even/Odd Checker
-* Largest Number Finder
-* Temperature Converter
-* Weight Converter
-* Discount Calculator
-* ATM PIN Verification
-* Driving License Checker
-
----
-
-# 🎯 Practice & Learning
-
-Every day includes:
-
-* 📚 Learning new concepts
-* 💻 Coding examples
-* 🧩 Practice problems
-* 🧠 Output prediction
-* 🐞 Debugging challenges
-* 🎤 Interview questions
-* 🚀 Mini projects
-* 📝 Handwritten notes
-* 📂 GitHub commits
-
----
-
-# 🛠 Tools Used
-
-* Python 3.14
-* PyCharm
-* Git
-* GitHub
+* IPO (Input → Process → Output)
+* Debugging
+* Output Prediction
+* Logical Thinking
 
 ---
 
 # 📈 Current Progress
 
-* ✅ Days Completed: **7 / 252**
-* 🔥 Coding Streak: **7 Days**
-* 💻 Programs Built: **18+**
-* 📚 Python Fundamentals: In Progress
-* 🚀 GitHub Updated Daily
+* ✅ 8 Days Completed
+* ✅ 8+ Mini Projects Built
+* ✅ Daily GitHub Contributions
+* ✅ Daily Handwritten Notes
+* ✅ Building a Professional Programming Portfolio
 
 ---
 
-# 🎯 Learning Philosophy
+# 🎯 Upcoming Topics
 
-* Learn the concept.
-* Understand why it works.
-* Practice consistently.
-* Build projects.
-* Solve problems independently.
-* Learn from mistakes.
-* Stay curious.
-
----
-
-# 🌟 Future Roadmap
-
-* Functions
 * Loops
-* Collections
+* Functions
+* Lists
+* Tuples
+* Dictionaries
+* Sets
 * File Handling
+* Object-Oriented Programming (OOP)
 * Exception Handling
-* Object-Oriented Programming
-* Data Structures & Algorithms
+* Modules & Packages
+* APIs
+* NumPy
+* Pandas
 * Machine Learning
-* Deep Learning
-* AI Projects
+* Artificial Intelligence
 
 ---
 
-## 🌟 Quote
+# 🌟 Quote
 
-> "Small improvements every day lead to remarkable results."
+> **"Consistency beats intensity. One day at a time, one program at a time."**
 
-Thank you for visiting my repository and following my journey toward becoming an AI Engineer! 🚀
+---
+
+# 👨‍💻 Author
+
+## **Kiran Kumar V**
+
+🎯 Aspiring AI Engineer
+
+📚 Currently Learning: Python, JavaScript & Problem Solving
+
+💻 Building projects every day and documenting my journey on GitHub.
+
+---
+
+⭐ **If you found this repository helpful or inspiring, feel free to star it!**
