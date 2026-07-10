@@ -1,105 +1,49 @@
 # 🐍 Python Journey
 
-Welcome to my **Python Journey** repository! 🚀
+# 🚀 My Python Learning Journey
 
-This repository documents my daily progress as I learn Python from the basics to advanced concepts. Every day, I study new topics, solve practice problems, build mini projects, and upload my work to GitHub to track my growth.
+**Learning Python from Beginner to Advanced — One Day at a Time**
 
-My goal is to become a skilled **AI Engineer** by building a strong programming foundation, improving my problem-solving skills, and maintaining consistency throughout my learning journey.
-
----
-
-# 🎯 Goals
-
-* Learn Python from Beginner to Advanced
-* Build a strong programming foundation
-* Improve logical thinking and problem-solving skills
-* Build mini projects after learning new concepts
-* Practice coding every day
-* Maintain a professional GitHub portfolio
-* Prepare for AI, Machine Learning, and Software Development
+*Building a strong programming foundation through daily practice, problem solving, and projects.*
 
 ---
 
-# 📚 Daily Progress
+# 🎯 About This Repository
 
-## 📘 Day 01
+Welcome to my **Python Journey** repository!
 
-* Introduction to Python
-* Installing Python & VS Code
-* Variables
-* Data Types
-* Printing Output
+This repository documents my day-by-day progress as I learn Python from the fundamentals to advanced concepts.
 
----
+Each day includes:
 
-## 📘 Day 02
+* 📚 Theory Notes
+* 💻 Practice Programs
+* 🧠 Problem Solving
+* 🚀 Mini Projects
+* 📝 README Documentation
 
-* User Input
-* Type Casting
-* f-Strings
-* Basic String Operations
+My goal is to become an **AI Engineer** by mastering programming fundamentals and building real-world projects.
+
 
 ---
 
-## 📘 Day 03
+# 📅 Daily Progress
 
-* String Methods
-* String Indexing
-* String Slicing
-* String Practice Problems
-
----
-
-## 📘 Day 04
-
-* Advanced String Practice
-* String Functions
-* Problem Solving
-
----
-
-## 📘 Day 05
-
-* Arithmetic Operators
-* Assignment Operators
-* Floor Division
-* Modulus
-* Math Module
-* Mad Libs Game
+| Day | Topics                                       | Mini Project                    | Status |
+| :-: | -------------------------------------------- | ------------------------------- | :----: |
+|  01 | Python Introduction, Variables, Data Types   | —                               |    ✅   |
+|  02 | User Input, Type Casting, f-Strings          | —                               |    ✅   |
+|  03 | String Methods, Indexing, Slicing            | —                               |    ✅   |
+|  04 | String Practice & Functions                  | —                               |    ✅   |
+|  05 | Arithmetic Operators, Math Module            | Mad Libs Game                   |    ✅   |
+|  06 | Comparison Operators, Boolean, If Statements | Scholarship Eligibility Checker |    ✅   |
+|  07 | Logical Operators, Nested If                 | Login System                    |    ✅   |
+|  08 | Match-Case Statement                         | Restaurant Ordering System      |    ✅   |
+|  09 | For Loops, `range()` Function                | Countdown Timer                 |    ✅   |
 
 ---
 
-## 📘 Day 06
-
-* Comparison Operators
-* Boolean Data Type
-* If Statements
-* Else Statements
-* Elif Statements
-
----
-
-## 📘 Day 07
-
-* Logical Operators (`and`, `or`, `not`)
-* Nested If Statements
-* Decision Making
-* Scholarship Eligibility Checker
-* Login System
-
----
-
-## 📘 Day 08
-
-* Match-Case Statement
-* `case` and `case _`
-* Difference Between `if-elif-else` and `match-case`
-* IPO (Input → Process → Output) Problem Solving
-* Restaurant Ordering System
-
----
-
-# 🛠 Mini Projects
+# 🚀 Mini Projects
 
 * 🎮 Mad Libs Game
 * 🌡 Temperature Converter
@@ -109,8 +53,67 @@ My goal is to become a skilled **AI Engineer** by building a strong programming 
 * 🎓 Scholarship Eligibility Checker
 * 🔐 Login System
 * 🍔 Restaurant Ordering System
+* 🚀 Countdown Timer
 
-> More projects will be added as I continue learning Python.
+---
+
+# 🧠 Skills Learned
+
+## Python Fundamentals
+
+* Variables
+* Data Types
+* User Input
+* Type Casting
+* f-Strings
+
+---
+
+## Strings
+
+* String Methods
+* String Indexing
+* String Slicing
+* String Functions
+
+---
+
+## Operators
+
+* Arithmetic Operators
+* Assignment Operators
+* Comparison Operators
+* Logical Operators
+
+---
+
+## Decision Making
+
+* if
+* elif
+* else
+* Nested if
+* match-case
+
+---
+
+## Loops
+
+* for Loop
+* range()
+* Forward Iteration
+* Reverse Iteration
+
+---
+
+## Problem Solving
+
+* IPO (Input → Process → Output)
+* Validation
+* Edge Cases
+* Output Prediction
+* Debugging
+* Logical Thinking
 
 ---
 
@@ -127,16 +130,17 @@ Python-Journey/
 ├── Day-06/
 ├── Day-07/
 ├── Day-08/
+├── Day-09/
 │
 ├── Mini-Projects/
 │   ├── Mad-Libs-Game/
 │   ├── Temperature-Converter/
 │   ├── Weight-Converter/
 │   ├── Discount-Calculator/
-│   ├── ATM-PIN-System/
 │   ├── Scholarship-Eligibility-Checker/
 │   ├── Login-System/
-│   └── Restaurant-Ordering-System/
+│   ├── Restaurant-Ordering-System/
+│   └── Countdown-Timer/
 │
 ├── Practice-Sheets/
 ├── Resources/
@@ -146,76 +150,39 @@ Python-Journey/
 
 ---
 
-# 🧠 My Learning Workflow
+# 💡 My Learning Workflow
 
-For every topic, I follow this process:
+For every topic, I follow the same structured approach:
 
 1. 📖 Learn the concept
 2. 📝 Write handwritten notes
 3. 📚 Understand definitions
-4. 💡 Study real-life examples
-5. 🧠 Plan using IPO (Input → Process → Output)
-6. ⚠️ Think about edge cases
-7. 💻 Write the code
-8. 🐞 Debug and improve the program
-9. 🚀 Build a mini project
-10. 📂 Push everything to GitHub
-
----
-
-# 💻 Skills Learned So Far
-
-### Python Fundamentals
-
-* Variables
-* Data Types
-* User Input
-* Type Casting
-* f-Strings
-
-### String Handling
-
-* String Methods
-* String Indexing
-* String Slicing
-
-### Operators
-
-* Arithmetic Operators
-* Assignment Operators
-* Comparison Operators
-* Logical Operators
-
-### Decision Making
-
-* `if`
-* `elif`
-* `else`
-* Nested `if`
-* `match-case`
-
-### Problem Solving
-
-* IPO (Input → Process → Output)
-* Debugging
-* Output Prediction
-* Logical Thinking
+4. 🌍 Study real-life examples
+5. 🧠 Solve IPO (Input → Process → Output)
+6. ✅ Think about validation
+7. ⚠️ Identify edge cases
+8. 💻 Write the code
+9. 🐞 Debug and improve
+10. 🚀 Build a mini project
+11. 📂 Push everything to GitHub
 
 ---
 
 # 📈 Current Progress
 
-* ✅ 8 Days Completed
-* ✅ 8+ Mini Projects Built
-* ✅ Daily GitHub Contributions
-* ✅ Daily Handwritten Notes
-* ✅ Building a Professional Programming Portfolio
+* ✅ 9 Days Completed
+* ✅ 9+ Mini Projects
+* ✅ Daily GitHub Commits
+* ✅ Daily Practice Problems
+* ✅ Daily README Documentation
+* ✅ Building a Professional Developer Portfolio
 
 ---
 
 # 🎯 Upcoming Topics
 
-* Loops
+* While Loops
+* Nested Loops
 * Functions
 * Lists
 * Tuples
@@ -233,22 +200,46 @@ For every topic, I follow this process:
 
 ---
 
-# 🌟 Quote
+# 🌟 Goals
 
-> **"Consistency beats intensity. One day at a time, one program at a time."**
+* Complete Python from Beginner to Advanced
+* Build 50+ Python Projects
+* Master Problem Solving
+* Learn Data Structures & Algorithms
+* Learn Machine Learning
+* Build AI Projects
+* Become an AI Engineer
+
+---
+
+# 📖 Quote
+
+> **"Success is built one day at a time. Every commit is a step toward mastery."**
 
 ---
 
 # 👨‍💻 Author
 
-## **Kiran Kumar V**
+## Kiran Kumar V
 
 🎯 Aspiring AI Engineer
 
-📚 Currently Learning: Python, JavaScript & Problem Solving
+📚 Currently Learning Python & JavaScript
 
-💻 Building projects every day and documenting my journey on GitHub.
+💻 Building projects daily and documenting my journey on GitHub.
 
 ---
 
-⭐ **If you found this repository helpful or inspiring, feel free to star it!**
+## ⭐ Repository Status
+
+**Days Completed:** 9/100+
+
+**Learning Status:** 🟢 Active
+
+**Last Updated:** Day 09
+
+---
+
+### Thank you for visiting my Python Journey repository!
+
+If you find this repository helpful, consider giving it a ⭐.
