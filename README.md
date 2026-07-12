@@ -1,6 +1,5 @@
 # 🐍 Python Journey
 
-```md
 ![Python](https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python)
 ![Learning](https://img.shields.io/badge/Learning-Daily-success?style=for-the-badge)
 ![Days](https://img.shields.io/badge/Day-10-orange?style=for-the-badge)
@@ -10,8 +9,6 @@
 ![Repo Size](https://img.shields.io/github/repo-size/KiranKumarV2830/Python-Journey?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/KiranKumarV2830/Python-Journey?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/KiranKumarV2830/Python-Journey?style=for-the-badge)
-```
-
 
 
 
