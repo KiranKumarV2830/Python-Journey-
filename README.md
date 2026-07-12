@@ -12,9 +12,6 @@
 
 
 
-
-\
-
 ---
 
 # 🚀 My Python Learning Journey
