@@ -1,253 +1,196 @@
-# 🐍 Python Journey
+# 🐍 Python Journey 🚀
+
+> **Learning Python from scratch | One day at a time | Building consistency through code**
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python)
-![Learning](https://img.shields.io/badge/Learning-Daily-success?style=for-the-badge)
-![Days](https://img.shields.io/badge/Day-10-orange?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Mini%20Projects-10-blueviolet?style=for-the-badge)
-
-![Last Commit](https://img.shields.io/github/last-commit/KiranKumarV2830/Python-Journey?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/KiranKumarV2830/Python-Journey?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/KiranKumarV2830/Python-Journey?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/KiranKumarV2830/Python-Journey?style=for-the-badge)
-
-
+![Current Day](https://img.shields.io/badge/Current%20Day-11-success?style=for-the-badge)
+![Practice Sheets](https://img.shields.io/badge/Practice%20Sheets-2-orange?style=for-the-badge)
+![Mini Projects](https://img.shields.io/badge/Mini%20Projects-3-purple?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-Daily-brightgreen?style=for-the-badge)
 
 ---
 
-# 🚀 My Python Learning Journey
+# 📖 About
 
-> **Learning Python from Beginner to Advanced — One Day at a Time**
+Welcome to my **Python Journey** repository.
 
-Welcome to my Python Journey repository! This repository documents my day-by-day progress as I learn Python through theory, coding practice, problem solving, debugging, and real-world mini projects.
+This repository contains my complete Python learning journey from beginner to advanced.
 
-My goal is to build a strong programming foundation and eventually become an **AI Engineer**.
+Instead of only watching tutorials, I solve coding problems, build mini projects, complete practice sheets, answer interview questions, practice debugging, and think through real-world programming scenarios every day.
+
+My goal is to become an **AI Engineer** and a strong Software Developer.
 
 ---
 
 # 🎯 Goals
 
-* ✅ Master Python Fundamentals
-* 🔄 Build 100+ Python Programs
-* 🔄 Build 50+ Mini Projects
-* 🔄 Learn Data Structures & Algorithms
-* 🔄 Learn Machine Learning
-* 🔄 Learn Artificial Intelligence
-* 🔄 Become an AI Engineer
+- ✅ Master Python Fundamentals
+- ✅ Solve 500+ Python Problems
+- ✅ Build 50+ Mini Projects
+- ✅ Learn Data Structures & Algorithms
+- ✅ Learn Machine Learning
+- ✅ Build AI Projects
+- ✅ Prepare for Software Engineering Interviews
 
 ---
 
-# 📊 Current Progress
+# 📅 Progress
 
-| Category        | Progress    |
-| --------------- | ----------- |
-| Days Completed  | ✅ 10        |
-| Mini Projects   | ✅ 10        |
-| GitHub Commits  | 🔥 Daily    |
-| Learning Status | 🟢 Active   |
-| Current Topic   | While Loops |
+| Day | Topics | Status |
+|------|-------------------------------|:------:|
+| Day 1 | Python Introduction | ✅ |
+| Day 2 | Variables & Data Types | ✅ |
+| Day 3 | String Methods | ✅ |
+| Day 4 | Input & Type Casting | ✅ |
+| Day 5 | Arithmetic Operators | ✅ |
+| Day 6 | Comparison Operators & if-else | ✅ |
+| Day 7 | Nested if & Logical Operators | ✅ |
+| Day 8 | Match-Case | ✅ |
+| Day 9 | For Loop | ✅ |
+| Day 10 | While Loop & break | ✅ |
+| Day 11 | Functions | 🚧 |
 
 ---
 
-# 📚 Topics Covered
+# 📚 Practice Sheets
 
-| Day | Topics                                       | Project                    | Status |
-| --- | -------------------------------------------- | -------------------------- | ------ |
-| 01  | Python Basics, Variables, Data Types         | —                          | ✅      |
-| 02  | User Input, Type Casting, f-Strings          | —                          | ✅      |
-| 03  | String Methods & String Operations           | —                          | ✅      |
-| 04  | String Formatting & Practice                 | —                          | ✅      |
-| 05  | Arithmetic Operators, Math Module            | Mad Libs Game              | ✅      |
-| 06  | Comparison Operators, Boolean, If Statements | Scholarship Checker        | ✅      |
-| 07  | Nested If, Logical Operators                 | Login System               | ✅      |
-| 08  | Match-Case Statement                         | Restaurant Ordering System | ✅      |
-| 09  | For Loops & range()                          | Countdown Timer            | ✅      |
-| 10  | While Loops, break, Input Validation         | ATM PIN Verification       | ✅      |
+| Practice Sheet | Status |
+|---------------|:------:|
+| Practice Sheet 1 | ✅ |
+| Practice Sheet 2 | ✅ |
 
 ---
 
 # 🚀 Mini Projects
 
-* 🎮 Mad Libs Game
-* 🌡️ Temperature Converter
-* ⚖️ Weight Converter
-* 💰 Discount Calculator
-* 🎓 Scholarship Eligibility Checker
-* 🔐 Login System
-* 🍔 Restaurant Ordering System
-* ⏳ Countdown Timer
-* 🏧 ATM PIN Verification
-
-> More projects coming soon...
+- 🎮 Mad Libs Game
+- 🍔 Restaurant Menu
+- 🧾 Restaurant Billing System
 
 ---
 
-# 🧠 Skills Learned
+# 💻 Skills Learned
 
-## Python Fundamentals
+## Python Basics
 
-* Variables
-* Data Types
-* User Input
-* Type Casting
-* f-Strings
+- Variables
+- Data Types
+- Input / Output
+- Type Casting
 
-## String Handling
+## Strings
 
-* String Methods
-* String Indexing
-* String Slicing
-* String Formatting
+- String Methods
+- Formatting
 
 ## Operators
 
-* Arithmetic Operators
-* Comparison Operators
-* Assignment Operators
-* Logical Operators
+- Arithmetic Operators
+- Comparison Operators
+- Logical Operators
 
 ## Decision Making
 
-* if
-* elif
-* else
-* Nested if
-* match-case
+- if
+- elif
+- else
+- Nested if
+- Match Case
 
 ## Loops
 
-* for Loop
-* while Loop
-* range()
-* break Statement
-* Infinite Loops
-* Nested Loops *(Coming Soon)*
+- for Loop
+- while Loop
+- break
 
-## Problem Solving
+## Current Topic
 
-* IPO (Input → Process → Output)
-* Debugging
-* Output Prediction
-* Validation
-* Edge Cases
-* Think Like a Programmer
+- Functions 🚧
 
 ---
 
 # 📂 Repository Structure
 
-```text
-Python-Journey/
+```
+Python-Journey
 │
-├── Day-01/
-├── Day-02/
-├── Day-03/
-├── Day-04/
-├── Day-05/
-├── Day-06/
-├── Day-07/
-├── Day-08/
-├── Day-09/
-├── Day-10/
+├── Day 1
+├── Day 2
+├── Day 3
+├── Day 4
+├── Day 5
+├── Day 6
+├── Day 7
+├── Day 8
+├── Day 9
+├── Day 10
+├── Day 11
 │
-├── Mini-Projects/
-│   ├── Mad-Libs-Game/
-│   ├── Temperature-Converter/
-│   ├── Weight-Converter/
-│   ├── Discount-Calculator/
-│   ├── Scholarship-Eligibility-Checker/
-│   ├── Login-System/
-│   ├── Restaurant-Ordering-System/
-│   ├── Countdown-Timer/
-│   └── ATM-PIN-System/
+├── Mini Projects
+│   ├── Mad Libs Game
+│   ├── Restaurant Menu
+│   └── Restaurant Billing
 │
-├── Practice-Sheets/
-├── Resources/
+├── Practice Sheet 1
+├── Practice Sheet 2
+│
 └── README.md
 ```
 
 ---
 
-# 📈 Learning Workflow
+# 📈 Current Progress
 
-For every topic, I follow this process:
-
-1. 📖 Learn the concept
-2. 📝 Understand definitions
-3. 🌍 Study real-life examples
-4. 🧠 Solve IPO (Input → Process → Output)
-5. ⚠️ Think about edge cases
-6. 💻 Write the code
-7. 🐞 Debug the program
-8. 🚀 Build a mini project
-9. 📄 Document everything
-10. 📤 Push to GitHub
+- 📅 Learning Days: **11**
+- 📝 Practice Sheets: **2**
+- 🚀 Mini Projects: **3**
+- 💻 Coding Problems Solved: **70+**
+- 🔥 Daily Commits: **11**
 
 ---
 
-# 🏆 Milestones
+# 🌱 Future Learning
 
-* ✅ Completed 10 Days of Python
-* ✅ Built 10 Mini Projects
-* ✅ Practicing Daily
-* ✅ Maintaining GitHub Consistency
-* 🎯 Next Milestone: Complete 20 Days
-
----
-
-# 📅 Upcoming Topics
-
-* Nested Loops
-* Functions
-* Lists
-* Tuples
-* Dictionaries
-* Sets
-* File Handling
-* Exception Handling
-* Object-Oriented Programming (OOP)
-* Modules & Packages
-* APIs
-* NumPy
-* Pandas
-* Machine Learning
-* Artificial Intelligence
+- Functions
+- Lists
+- Tuples
+- Dictionaries
+- File Handling
+- Object-Oriented Programming
+- Modules
+- Exception Handling
+- NumPy
+- Pandas
+- Matplotlib
+- Flask
+- SQL
+- Machine Learning
+- Artificial Intelligence
 
 ---
 
-# 💻 Development Environment
+# 💡 Why This Repository?
 
-* Language: Python
-* IDE: PyCharm
-* Version Control: Git & GitHub
-* Operating System: Windows
+This repository helps me:
 
----
-
-# 📖 Quote
-
-> **"Consistency beats intensity. Every commit is a step toward mastery."**
+- Track my learning progress
+- Improve problem-solving skills
+- Build consistency
+- Practice Python every day
+- Build a strong GitHub portfolio
 
 ---
 
 # 👨‍💻 About Me
 
-Hi! I'm **Kiran Kumar V**, an aspiring **AI Engineer** who is passionate about programming, problem solving, and building real-world projects.
+**Name:** Kiran Kumar V.
 
-I'm documenting my learning journey every day to improve my skills and build a strong developer portfolio.
+🎯 Goal: AI Engineer
 
----
-
-# ⭐ Repository Status
-
-* 📅 Days Completed: **10/100+**
-* 🚀 Learning Status: **Active**
-* 📂 Repository: **Python Journey**
-* 🔥 Daily Progress: **Ongoing**
+🌍 GitHub: **https://github.com/KiranKumarV2830**
 
 ---
 
-## 🌟 Thank You
+## ⭐ Thank you for visiting my repository!
 
-Thank you for visiting my repository!
-
-If you like this project, consider giving it a ⭐ and following my learning journey.
+*"Small progress every day leads to big results."*
