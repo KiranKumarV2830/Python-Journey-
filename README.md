@@ -1,119 +1,179 @@
-# 🐍 Python Journey 🚀
+# 🐍 Python Journey
 
-> **Learning Python from scratch | One day at a time | Building consistency through code**
+> ### 🚀 Learning Python from Scratch | Building One Project at a Time
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python)
-![Current Day](https://img.shields.io/badge/Current%20Day-11-success?style=for-the-badge)
-![Practice Sheets](https://img.shields.io/badge/Practice%20Sheets-2-orange?style=for-the-badge)
-![Mini Projects](https://img.shields.io/badge/Mini%20Projects-3-purple?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Learning-Daily-brightgreen?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-Daily-success?style=for-the-badge)
+![Current Day](https://img.shields.io/badge/Current%20Day-11-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+
+![Last Commit](https://img.shields.io/github/last-commit/KiranKumarV2830/Python-Journey?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/KiranKumarV2830/Python-Journey?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/KiranKumarV2830/Python-Journey?style=for-the-badge)
+![Language Count](https://img.shields.io/github/languages/count/KiranKumarV2830/Python-Journey?style=for-the-badge)
+
+![Stars](https://img.shields.io/github/stars/KiranKumarV2830/Python-Journey?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/KiranKumarV2830/Python-Journey?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/KiranKumarV2830/Python-Journey?style=for-the-badge)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/KiranKumarV2830/Python-Journey?style=for-the-badge)
 
 ---
 
-# 📖 About
+# 📖 About This Repository
 
 Welcome to my **Python Journey** repository.
 
-This repository contains my complete Python learning journey from beginner to advanced.
+This repository documents my complete journey of learning Python from beginner to advanced through:
 
-Instead of only watching tutorials, I solve coding problems, build mini projects, complete practice sheets, answer interview questions, practice debugging, and think through real-world programming scenarios every day.
+- 📚 Daily learning
+- 💻 Coding practice
+- 🧠 IPO Questions
+- 🐞 Debugging Challenges
+- 🎤 Interview Questions
+- 🚀 Mini Projects
+- 📝 Practice Sheets
+- 📖 Daily README files
 
-My goal is to become an **AI Engineer** and a strong Software Developer.
+My goal is to become an **AI Engineer** and build real-world software.
 
 ---
 
 # 🎯 Goals
 
-- ✅ Master Python Fundamentals
-- ✅ Solve 500+ Python Problems
-- ✅ Build 50+ Mini Projects
+- ✅ Master Python
 - ✅ Learn Data Structures & Algorithms
+- ✅ Build Real Projects
 - ✅ Learn Machine Learning
-- ✅ Build AI Projects
-- ✅ Prepare for Software Engineering Interviews
+- ✅ Learn Artificial Intelligence
+- ✅ Build an Outstanding GitHub Portfolio
+- ✅ Crack Product-Based Company Interviews
 
 ---
 
-# 📅 Progress
+# 📊 Current Progress
 
-| Day | Topics | Status |
-|------|-------------------------------|:------:|
-| Day 1 | Python Introduction | ✅ |
+| Progress | Completed |
+|----------|-----------|
+| 📅 Learning Days | **11** |
+| 📄 README Files | **11** |
+| 📝 Practice Sheets | **2** |
+| 🚀 Mini Projects | **3** |
+| 💻 Coding Problems | **70+** |
+| 🔥 GitHub Commits | **11+** |
+
+---
+
+# 📚 Python Roadmap
+
+| Day | Topic | Status |
+|------|-----------------------------|:------:|
+| Day 1 | Introduction & print() | ✅ |
 | Day 2 | Variables & Data Types | ✅ |
 | Day 3 | String Methods | ✅ |
 | Day 4 | Input & Type Casting | ✅ |
-| Day 5 | Arithmetic Operators | ✅ |
-| Day 6 | Comparison Operators & if-else | ✅ |
+| Day 5 | Operators | ✅ |
+| Day 6 | Comparison Operators | ✅ |
 | Day 7 | Nested if & Logical Operators | ✅ |
-| Day 8 | Match-Case | ✅ |
+| Day 8 | Match Case | ✅ |
 | Day 9 | For Loop | ✅ |
-| Day 10 | While Loop & break | ✅ |
-| Day 11 | Functions | 🚧 |
+| Day 10 | While Loop | ✅ |
+| Day 11 | Functions | ✅ |
+| Day 12 | Parameters & Arguments | ⏳ |
+| Day 13 | Return Statement | ⏳ |
+| Day 14 | Variable Scope | ⏳ |
+| Day 15 | Lists | ⏳ |
+| Day 16 | List Methods | ⏳ |
+| Day 17 | Nested Loops | ⏳ |
+| Day 18 | Tuples | ⏳ |
+| Day 19 | Sets | ⏳ |
+| Day 20 | Dictionaries | ⏳ |
 
 ---
 
-# 📚 Practice Sheets
+# 📈 Learning Progress
 
-| Practice Sheet | Status |
-|---------------|:------:|
-| Practice Sheet 1 | ✅ |
-| Practice Sheet 2 | ✅ |
+| Topic | Progress |
+|--------|----------|
+| Python Basics | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| Variables | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| Operators | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| Conditions | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| Match Case | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| For Loop | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| While Loop | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| Functions | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| Parameters | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Return Statement | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Lists | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
 
 ---
 
-# 🚀 Mini Projects
+# 🛠 Skills Learned
 
-- 🎮 Mad Libs Game
-- 🍔 Restaurant Menu
-- 🧾 Restaurant Billing System
-
----
-
-# 💻 Skills Learned
-
-## Python Basics
+### ✅ Python Basics
 
 - Variables
 - Data Types
 - Input / Output
 - Type Casting
 
-## Strings
+### ✅ Strings
 
 - String Methods
-- Formatting
+- String Formatting
 
-## Operators
+### ✅ Operators
 
-- Arithmetic Operators
-- Comparison Operators
-- Logical Operators
+- Arithmetic
+- Comparison
+- Logical
 
-## Decision Making
+### ✅ Decision Making
 
 - if
 - elif
 - else
 - Nested if
-- Match Case
+- match-case
 
-## Loops
+### ✅ Loops
 
 - for Loop
 - while Loop
 - break
 
-## Current Topic
+### ✅ Functions
 
-- Functions 🚧
+- Defining Functions
+- Calling Functions
+- Reusability
+
+---
+
+# 🚀 Mini Projects
+
+- 🍕 Restaurant Menu
+- 🍽 Restaurant Billing System
+- 🎮 Mad Libs Game
+
+More projects coming soon...
+
+---
+
+# 📝 Practice Sheets
+
+| Sheet | Status |
+|-------|--------|
+| Practice Sheet 1 | ✅ |
+| Practice Sheet 2 | ✅ |
 
 ---
 
 # 📂 Repository Structure
 
-```
-Python-Journey
-│
+```text
+Python-Journey/
+
 ├── Day 1
 ├── Day 2
 ├── Day 3
@@ -125,59 +185,54 @@ Python-Journey
 ├── Day 9
 ├── Day 10
 ├── Day 11
-│
-├── Mini Projects
-│   ├── Mad Libs Game
-│   ├── Restaurant Menu
-│   └── Restaurant Billing
-│
+
 ├── Practice Sheet 1
 ├── Practice Sheet 2
-│
+
+├── Mini Projects
+
 └── README.md
 ```
 
 ---
 
-# 📈 Current Progress
+# 💡 My Learning Process
 
-- 📅 Learning Days: **11**
-- 📝 Practice Sheets: **2**
-- 🚀 Mini Projects: **3**
-- 💻 Coding Problems Solved: **70+**
-- 🔥 Daily Commits: **11**
+For every topic I:
+
+- 📚 Learn the concept
+- 💻 Write programs
+- 🧠 Solve IPO Questions
+- 🔮 Predict Outputs
+- 🐞 Debug Programs
+- 🎤 Answer Interview Questions
+- 🚀 Build Mini Projects
+- 📖 Write README
+- 💾 Commit to GitHub
 
 ---
 
-# 🌱 Future Learning
+# 🌱 Upcoming Topics
 
-- Functions
+- Parameters
+- Arguments
+- Return Statement
+- Scope
 - Lists
 - Tuples
+- Sets
 - Dictionaries
 - File Handling
-- Object-Oriented Programming
-- Modules
+- OOP
 - Exception Handling
+- Modules
 - NumPy
 - Pandas
 - Matplotlib
-- Flask
 - SQL
+- Flask
 - Machine Learning
 - Artificial Intelligence
-
----
-
-# 💡 Why This Repository?
-
-This repository helps me:
-
-- Track my learning progress
-- Improve problem-solving skills
-- Build consistency
-- Practice Python every day
-- Build a strong GitHub portfolio
 
 ---
 
@@ -185,12 +240,22 @@ This repository helps me:
 
 **Name:** Kiran Kumar V.
 
-🎯 Goal: AI Engineer
+🎯 Aspiring AI Engineer
 
-🌍 GitHub: **https://github.com/KiranKumarV2830**
+📚 Currently Learning Python
+
+🐙 GitHub: https://github.com/KiranKumarV2830
 
 ---
 
-## ⭐ Thank you for visiting my repository!
+# ⭐ Support
 
-*"Small progress every day leads to big results."*
+If you find this repository helpful, consider giving it a ⭐.
+
+It motivates me to keep learning and sharing my progress.
+
+---
+
+# 📜 Quote
+
+> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."** 🚀
